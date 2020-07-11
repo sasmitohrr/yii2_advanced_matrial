@@ -11,7 +11,7 @@
 * Pindahkan hasil extact kedalam htdoc
 * Jalankan command prompt yang merujuk kedalam directory template yii2 advanced `cd C:\xampp\htdocs\advanced`
 * Masukan command `php init` lalu pilih `0` sebagai Development dan pilih `yes`
-![cmd](asset/cmd.png) 
+![cmd](asset/cmd.PNG) 
 
 ## Hasil
 
@@ -50,12 +50,12 @@ return [
 ```
 * Create table user menggunkan `migrate` dengan perinta `php yii migrate`
 
-![migrate](asset/migrate.png)
+![migrate](asset/migrate.PNG)
 
 berikut ini picture table `user` yang telah di generate oleh yii migrate
 
-![migrate](asset/tbl_migrate.png)
+![migrate](asset/tbl_migrate.PNG)
 
 * `http://localhost/advanced/backend/web/`
 
-![back](asset/backend.png)
+![back](asset/backend.PNG)
