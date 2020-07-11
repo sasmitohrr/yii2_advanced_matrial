@@ -12,7 +12,7 @@
 * Jalankan command prompt yang merujuk kedalam directory template yii2 advanced `cd C:\xampp\htdocs\advanced`
 * Masukan command `php init` lalu pilih `0` sebagai Development dan pilih `yes`
 
-![cmd](asset/cmd.PNG) 
+![cmd](asset/cmd.png) 
 
 ## Hasil
 
