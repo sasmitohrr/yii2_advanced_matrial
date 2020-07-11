@@ -49,8 +49,13 @@ return [
 
 ```
 * Create table user menggunkan `migrate` dengan perinta `php yii migrate`
+
 ![migrate](asset/migrate.png)
+
 berikut ini picture table `user` yang telah di generate oleh yii migrate
+
 ![migrate](asset/tbl_migrate.png)
+
 * `http://localhost/advanced/backend/web/`
+
 ![back](asset/backend.png)
